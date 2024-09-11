@@ -1,0 +1,61 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: AllSurge 
+    Whatsapp Id: 1
+    Criação do arquivo de logs: 09/09/2024 19:10:37
+    Selecionado Data de inicio de importação: 08/09/2024 19:07:00 
+    Selecionado Data final da importação: 09/09/2024 19:06:00 
+     
+
+Mensagem 1 de 18
+               
+
+Mensagem 2 de 18
+               
+
+Mensagem 3 de 18
+               
+
+Mensagem 4 de 18
+               
+
+Mensagem 5 de 18
+               
+
+Mensagem 6 de 18
+               
+
+Mensagem 7 de 18
+               
+
+Mensagem 8 de 18
+               
+
+Mensagem 9 de 18
+               
+
+Mensagem 10 de 18
+               
+
+Mensagem 11 de 18
+               
+
+Mensagem 12 de 18
+               
+
+Mensagem 13 de 18
+               
+
+Mensagem 14 de 18
+               
+
+Mensagem 15 de 18
+               
+
+Mensagem 16 de 18
+               
+
+Mensagem 17 de 18
+               
+
+Mensagem 18 de 18
+               

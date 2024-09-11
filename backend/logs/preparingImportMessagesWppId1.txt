@@ -1,0 +1,133 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: AllSurge 
+  Whatsapp Id: 1
+  Criação do arquivo de logs: 09/09/2024 19:09:42
+  Selecionado Data de inicio de importação: 08/09/2024 19:07:00
+  Selecionado Data final da importação: 09/09/2024 19:06:00
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 18:58:23
+  Contato da Mensagem : 554196329307@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 18:58:14
+  Contato da Mensagem : 554196329307@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 14:38:54
+  Contato da Mensagem : 554196329307@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 14:37:59
+  Contato da Mensagem : 554196329307@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 14:28:23
+  Contato da Mensagem : 554196329307@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 18:56:51
+  Contato da Mensagem : 2349041833621@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 11:08:48
+  Contato da Mensagem : 2349041833621@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:02:59
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : imageMessage
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:02:31
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:02:27
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:02:24
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:02:13
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:01:52
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:00:59
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:00:50
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:00:40
+  Contato da Mensagem : 5511952824243@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:01:34
+  Contato da Mensagem : 558196310297@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 09/09/2024 09:01:32
+  Contato da Mensagem : 558196310297@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
